@@ -64,7 +64,7 @@ const Translate = () => {
                     <textarea spellCheck="false" className="from-text" placeholder="Enter text"></textarea>
                     <textarea spellCheck="false" readOnly className="to-text" placeholder="Translation"></textarea>
                 </div>
-                <ul className="controls">
+                <ul className="controls new-controls">
                     <li className="row from">
                         <div className="icons">
                             <i id="from" className="fas fa-volume-up"></i>
